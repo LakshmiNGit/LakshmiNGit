@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LakshmiNGit
-- 👀 I’m interested in Machine learning and deep learning projects
+- 👀 I’m interested in contributing to Machine learning and deep learning projects in the dynamic realm of AI.
 - 
 
 <!---
